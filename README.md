@@ -1,5 +1,7 @@
 # :v: Wassup, Welcome to my Github
 
+<img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif"  width=250/>
+
 ## :link: You can find me elsewhere under the following links
 
 >[Instagram ](https://www.instagram.com/bachmannerin/?hl=de)

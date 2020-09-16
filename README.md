@@ -1,6 +1,6 @@
+## :v: Welcome on my Github
 
-:books:
-## Welcome on my Github, you can find me elsewhere under the following links
+# :link: You can find me elsewhere under the following links
 
 >[Instagram ](https://https://www.instagram.com/bachmannerin/)
 
@@ -8,7 +8,7 @@
 
 >[Spotify Playlist ](https://open.spotify.com/playlist/3VoAkjHYRkrmh8ZcAi8Gsa?si=6ui2cVMWTOGJUAwzzxhnJQ)
 
-## Stats 
+## :bar_chart: My stats 
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=EriN-B&show_icons=true&hide=prs&theme=vue-dark" />

@@ -8,6 +8,8 @@
 
 >[Twitter ](https://twitter.com/_Erin_Bachmann_)
 
+>Snapchat : erin_bachmann
+
 >[Spotify Playlist ](https://open.spotify.com/playlist/3VoAkjHYRkrmh8ZcAi8Gsa?si=6ui2cVMWTOGJUAwzzxhnJQ)
 
 ## :bar_chart: My GitHub stats 

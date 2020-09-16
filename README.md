@@ -1,4 +1,4 @@
-# :v: Welcome to my Github
+# :v: Wassup, Welcome to my Github
 
 ## :link: You can find me elsewhere under the following links
 
@@ -8,7 +8,7 @@
 
 >[Spotify Playlist ](https://open.spotify.com/playlist/3VoAkjHYRkrmh8ZcAi8Gsa?si=6ui2cVMWTOGJUAwzzxhnJQ)
 
-## :bar_chart: My stats 
+## :bar_chart: My GitHub stats 
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=EriN-B&show_icons=true&hide=prs&theme=vue-dark" />

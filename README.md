@@ -1,6 +1,6 @@
-## :v: Welcome on my Github
+# :v: Welcome on my Github
 
-# :link: You can find me elsewhere under the following links
+## :link: You can find me elsewhere under the following links
 
 >[Instagram ](https://https://www.instagram.com/bachmannerin/)
 

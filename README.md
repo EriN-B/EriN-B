@@ -1,4 +1,4 @@
-# :v: Welcome on my Github
+# :v: Welcome to my Github
 
 ## :link: You can find me elsewhere under the following links
 

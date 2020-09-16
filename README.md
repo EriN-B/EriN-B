@@ -2,7 +2,7 @@
 
 ## :link: You can find me elsewhere under the following links
 
->[Instagram ](https://https://www.instagram.com/bachmannerin/)
+>[Instagram ](https://www.instagram.com/bachmannerin/?hl=de)
 
 >[Twitter ](https://twitter.com/_Erin_Bachmann_)
 

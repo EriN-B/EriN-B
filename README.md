@@ -12,12 +12,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EriN-B&theme=vue-dark&layout=compact" />
 </a>
 
-## :link: Links
-
->[Instagram ](https://www.instagram.com/bachmannerin/?hl=de)
-
->[Twitter ](https://twitter.com/_Erin_Bachmann_)
-
->Snapchat : erin_bachmann
-
->[Spotify Playlist ](https://open.spotify.com/playlist/3VoAkjHYRkrmh8ZcAi8Gsa?si=6ui2cVMWTOGJUAwzzxhnJQ)

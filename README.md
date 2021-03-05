@@ -6,9 +6,9 @@
 
 <br/>
 <a href="https://github.com/EriN-B">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EriN-B&show_icons=true&hide=prs&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EriN-B&show_icons=true&hide=prs&theme=light" />
 </a>
 <a href="https://github.com/EriN-B">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EriN-B&theme=dark&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EriN-B&theme=light&layout=compact" />
 </a>
 
